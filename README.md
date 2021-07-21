@@ -11,12 +11,16 @@ The goal of this project is to practice:
 - Using APIs and creating requests to external urls
 
 ## How to run the project
-1. <pre>npm install</pre>
-to intall the packages
-2. <pre>npm run build-dev</pre>
-to run the dev server
-3. <pre>npm run build-prod</pre>
-to build the project
-4. <pre>npm run start</pre>
-to run the server
+1. to intall the packages
+<pre>npm install</pre>
+
+2. to run the dev server
+<pre>npm run build-dev</pre>
+
+3. to build the project
+<pre>npm run build-prod</pre>
+
+4. to run the server
+<pre>npm run start</pre>
+
 Project will be running on port 8081
