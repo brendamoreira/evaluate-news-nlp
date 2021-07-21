@@ -1,7 +1,8 @@
 let json = {
-    'title': 'test json response',
-    'message': 'this is a message',
-    'time': 'now'
+    'agreement': 'this is a message',
+    'confidence': 'now',
+    'irony': '10',
+    'score': '+'
 }
 
 module.exports = json
